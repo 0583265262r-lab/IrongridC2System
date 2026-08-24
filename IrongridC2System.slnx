@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Consumer/Consumer.csproj" />
+  <Project Path="IronGridC2Api/IronGridC2Api.csproj" />
   <Project Path="Producer/Producer.csproj" />
 </Solution>
